@@ -11,5 +11,11 @@
 
     <artifactId>custom-validate</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.janita</groupId>
+            <artifactId>validate-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
